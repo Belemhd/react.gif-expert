@@ -16,7 +16,7 @@ if(categories.includes(newCategory)) return;  // CATEGORIA A CATEGORIES OSEA AL 
 setCategories ([newCategory, ...categories]);
 
 
-};
+}; 
 
 
 
